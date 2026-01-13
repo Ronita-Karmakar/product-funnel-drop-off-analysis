@@ -1,4 +1,4 @@
-# product-funnel-drop-off-analysis
+# Product Funnel Drop-Off Analysis
 End-to-end analysis of user behavior across a product funnel to identify conversion gaps and drop-off insights using Python and Power BI.
 
 # Project Overview
